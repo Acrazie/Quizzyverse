@@ -21,7 +21,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/EpitechCodingAcademyPromo2024/C-COD-260-PAR-2-2-ecp-marc-alexandre.lepinard">
+  <a href="https://github.com/Acrazie/Quizzyverse">
     <img src="/quizzyverse/public/Epitech.png" alt="Logo" height="auto" width="auto">
   </a>
 
@@ -158,12 +158,13 @@ Make sure your node & npm version is updated, if not update it:
 
   . In the terminal on your IDE:
   ```sh
-  git clone `git@github.com:EpitechCodingAcademyPromo2024/C-COD-260-PAR-2-2-ecp-marc-alexandre.lepinard.git`
+  git clone `https://github.com/Acrazie/Quizzyverse`
   ```
     
   . Navigate to the project directory:
   ```sh
-  cd C-COD-260-PAR-2-2-ecp-marc-alexandre.lepinard
+  cd Quizzyverse
+  cd quizzyverse
   ```
     
 2. **Set up the MySQL database**
